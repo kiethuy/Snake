@@ -1,0 +1,8 @@
+﻿  ran.cpp
+D:\code\Snake\c++game\ran\mylib.h(29,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\code\Snake\c++game\ran\mylib.h(29,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\code\Snake\c++game\ran\ran.cpp(4,1): warning C4005: 'max': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : see previous definition of 'max'
+D:\code\Snake\c++game\ran\ran.cpp(217,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\code\Snake\c++game\ran\ran.cpp(146): warning C4715: 'ran_chet': not all control paths return a value
+  ran.vcxproj -> D:\code\Snake\c++game\Debug\ran.exe
